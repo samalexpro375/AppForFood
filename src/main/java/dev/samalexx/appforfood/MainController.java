@@ -27,7 +27,8 @@ public class MainController {
 
     @FXML
     void initialize() {
-
+};	sushiB.setOnAction(event -> {
+);
     }
 
 }
