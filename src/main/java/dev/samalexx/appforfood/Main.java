@@ -13,7 +13,7 @@ public class Main extends Application {
         FXMLLoader fxmlLoader = new FXMLLoader(Main.class.getResource("main-page.fxml"));
         Scene scene = new Scene(fxmlLoader.load(), 418, 428);
         stage.setResizable(false);
-        stage.setTitle("Fooddd");
+        stage.setTitle("Food");
         stage.setScene(scene);
         stage.show();
     }
